@@ -1,6 +1,6 @@
 ## Hey, I'm Jnana👋
 
-👩‍🎓⚡Analytics Grad with an Engineering Background – Figuring Things Out, One Dataset at a Time📊🤓
+👩‍🎓⚡Analytics Grad with an Engineering Background – Figuring Things Out, One Dataset at a Time 📊🤓
 
 ---
 
