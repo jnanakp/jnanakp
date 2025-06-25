@@ -25,7 +25,7 @@
 
 ---
 
-## 🔍 Tools Behind the Insights
+## 🔍 Tools and Libraries
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
