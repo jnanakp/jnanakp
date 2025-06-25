@@ -56,4 +56,4 @@
 📄 [View Resume](https://your-resume-link.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p)  
 📧 Email: jnanaakp@gmail.com  
-💻 Browse my GitHub projects to see my work in action
+💻 Explore my GitHub repositories to see my work in action
