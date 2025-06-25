@@ -49,15 +49,13 @@ Analytics grad with an engineering background - figuring things out one dataset 
 
 ---
 📑 **Explore My Journey**  
-For a deeper dive into my background, skills, and projects, feel free to check out my resume.  
-Browse my GitHub repositories and see my work in action.  
+For a deeper dive into my background, skills, and projects, feel free to check out my resume  
+Browse my GitHub repositories and see my work in action
 [View Resume](https://your-resume-link.com)
 
 ---
 
 🌐 **Stay Connected**  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) to share ideas and opportunities.
-
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) to share ideas and opportunities
 📧 Email: jnanaakp@gmail.com
-
 Looking forward to collaborating!🤝
