@@ -4,7 +4,7 @@ Analytics grad with an engineering background - figuring things out one dataset 
 
 ---
 
-## Career Snapshot👩‍💻💼
+## Career Snapshot👩‍💻
 
 **Data Analyst – USC Viterbi K-12 STEM Center** *(Mar 2025 – Present)*  
 • Analyzed 450GB+ of digital assets to uncover usage patterns and support archival strategy  
