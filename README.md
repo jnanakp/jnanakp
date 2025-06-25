@@ -13,7 +13,7 @@
 
 **Application Development Analyst – Accenture Solutions Pvt Ltd** *(Sept 2021 – June 2023)*  
 - Performed database health checks to ensure platform stability and 99.9% uptime  
-- Monitored real-time transaction data and flagged anomalies for fraud detection  
+- Monitored real-time customer transaction data and flagged anomalies for fraud detection  
 - Queried large datasets using SQL and developed dashboards to support engineering and QA teams  
 - Resolved 100+ support tickets, reducing resolution time by 25%  
 
