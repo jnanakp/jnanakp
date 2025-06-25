@@ -1,4 +1,4 @@
-## Hey, I'm Jnana👩‍💻👋
+## Hey, I'm Jnana👋
 
 Analytics Grad With an Engineering Background - Figuring Things Out One Dataset at a Time.
 
@@ -6,7 +6,7 @@ Here’s a quick look into my journey:
 
 ---
 
-## Career Snapshot
+## Career Snapshot👩‍💻💼
 
 **Data Analyst – USC Viterbi K-12 STEM Center** *(Mar 2025 – Present)*  
 • Analyzed 450GB+ of digital assets to uncover usage patterns and support archival strategy  
