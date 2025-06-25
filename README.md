@@ -57,5 +57,5 @@ Browse my GitHub repositories and see my work in action.
 
 🌐 **Stay Connected**  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) to share ideas and opportunities.
-
+📧 Email: jnanaakp@gmail.com
 Looking forward to collaborating!🤝
