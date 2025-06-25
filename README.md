@@ -46,3 +46,16 @@ Analytics grad with an engineering background - figuring things out one dataset 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
+
+📄 **Resume**  
+For a detailed overview of my experience and skills, please take a look at my resume.  
+[View Resume](https://your-resume-link.com)
+
+---
+
+🔗 **Connect with Me**  
+Feel free to explore my repositories and work here on GitHub.  
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) for professional updates and networking.
+
