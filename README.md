@@ -18,9 +18,10 @@
 • Resolved 100+ support tickets, reducing resolution time by 25%  
 
 **Analyst Intern – Dysmech Competency Services Pvt Ltd** *(May 2019 – Oct 2019)*  
-• Developed predictive maintenance logic using Python and IoT sensor data  
-• Integrated real-time data with AWS EC2 for live tracking and automated alerts  
-• Built BI dashboards to monitor energy usage and equipment health
+- Collected and analyzed IoT sensor data from generator systems to identify performance anomalies  
+- Developed predictive maintenance logic using Python to anticipate failures and reduce unplanned downtime  
+- Integrated real-time data with AWS EC2 for scalable processing, live tracking, and automated alerting  
+- Built BI dashboards to visualize generator health and energy consumption, supporting proactive decision-making  
 
 ---
 
