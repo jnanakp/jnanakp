@@ -48,14 +48,14 @@ Analytics grad with an engineering background - figuring things out one dataset 
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
-
-📄 **Resume**  
-For a detailed overview of my experience and skills, please take a look at my resume.  
+📑 **Explore My Journey**  
+For a deeper dive into my background, skills, and projects, feel free to check out my resume.  
+Browse my GitHub repositories and see my work in action.  
 [View Resume](https://your-resume-link.com)
 
 ---
 
-🔗 **Connect with Me**  
-Feel free to explore my repositories and work here on GitHub.  
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) for professional updates and networking.
+🌐 **Stay Connected**  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) to share ideas and opportunities.
 
+Looking forward to collaborating!🤝
