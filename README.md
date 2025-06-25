@@ -26,7 +26,7 @@ Here’s a quick look into my journey:
 
 ---
 
-## Technologies in My Toolkit 🧰
+## Tools Behind the Insights 🔍
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -43,4 +43,3 @@ Here’s a quick look into my journey:
 ![Salesforce](https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Power Automate](https://img.shields.io/badge/POWER%20AUTOMATE-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
