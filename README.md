@@ -1,4 +1,4 @@
-## Hey, I'm Jnana 👋
+## Hey, I'm Jnana👩‍💻👋
 
 Analytics Grad With an Engineering Background - Figuring Things Out One Dataset at a Time.
 
