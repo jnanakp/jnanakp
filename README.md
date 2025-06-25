@@ -1,21 +1,21 @@
-## Hey, I'm Jnana👋
+### Hey, I'm Jnana 👋
 
 👩‍🎓⚡Analytics Grad with an Engineering Background – Figuring Things Out, One Dataset at a Time 📊🤓
 
 ---
 
-## Career Snapshot👩‍💻
+## 💼 Career Snapshot 👩‍💻
 
 **Data Analyst – USC Viterbi K-12 STEM Center** *(Mar 2025 – Present)*  
-• Analyzed 450GB+ of digital assets to uncover usage patterns and support archival strategy  
-• Built Excel trackers and Tableau dashboards to streamline STEM program content  
-• Executed a phased OneDrive migration, reducing redundant storage by 70%  
+- Analyzed 450GB+ of digital assets to uncover usage patterns and support archival strategy  
+- Built Excel trackers and Tableau dashboards to streamline STEM program content  
+- Executed a phased OneDrive migration, reducing redundant storage by 70%  
 
 **Application Development Analyst – Accenture Solutions Pvt Ltd** *(Sept 2021 – June 2023)*  
-• Performed daily database health checks to ensure platform stability and 99.9% uptime  
-• Monitored real-time transaction data and flagged anomalies for fraud detection  
-• Queried large datasets using SQL and developed dashboards to support engineering and QA teams  
-• Resolved 100+ support tickets, reducing resolution time by 25%  
+- Performed daily database health checks to ensure platform stability and 99.9% uptime  
+- Monitored real-time transaction data and flagged anomalies for fraud detection  
+- Queried large datasets using SQL and developed dashboards to support engineering and QA teams  
+- Resolved 100+ support tickets, reducing resolution time by 25%  
 
 **Analyst Intern – Dysmech Competency Services Pvt Ltd** *(May 2019 – Oct 2019)*  
 - Collected and analyzed IoT sensor data from generator systems to identify performance anomalies  
@@ -25,7 +25,7 @@
 
 ---
 
-## Tools Behind the Insights 🔍
+## 🔍 Tools Behind the Insights
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -42,6 +42,7 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -49,11 +50,10 @@
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
-📑 **Explore My Journey**  
-For a deeper dive into my background, skills, and projects, browse my GitHub repositories and see my work in action and feel free to check out my resume  
-[View Resume](https://your-resume-link.com)
 
----
+## ✨🔗 Explore My Journey & Stay Connected
 
-🌐 **Stay Connected**  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/jnana-k-p) to share ideas and opportunities  📧 Email: jnanaakp@gmail.com
+📄 [View Resume](https://your-resume-link.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p)  
+📧 Email: jnanaakp@gmail.com  
+💻 Browse my GitHub projects to see my work in action
