@@ -49,8 +49,7 @@ Analytics grad with an engineering background - figuring things out one dataset 
 
 ---
 📑 **Explore My Journey**  
-For a deeper dive into my background, skills, and projects, feel free to check out my resume  
-Browse my GitHub repositories and see my work in action
+For a deeper dive into my background, skills, and projects, browse my GitHub repositories and see my work in action and feel free to check out my resume  
 [View Resume](https://your-resume-link.com)
 
 ---
