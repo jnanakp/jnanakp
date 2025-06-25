@@ -60,7 +60,10 @@
 ## ✨🔗 Explore My Journey & Stay Connected
 
 💻 Visit my GitHub repositories to see my work in action
+
 📄 [View Resume](https://your-resume-link.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p)  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p) 
+
 📧 Email: jnanaakp@gmail.com  
 
