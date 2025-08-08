@@ -61,8 +61,6 @@
 
 💻 Visit my GitHub repositories to see my work in action
 
-📄 [View Resume](https://drive.google.com/file/d/1taXwPW7ktQXevyFpgr5j-wmxcDt3eC1z/view?usp=share_link)  
-
 🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p) 
 
 📧 Email: jnanaakp@gmail.com  
