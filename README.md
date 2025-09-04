@@ -14,3 +14,6 @@
 
 ---
 
+## 📌 Projects  
+Check out some of my work below 👇  
+
