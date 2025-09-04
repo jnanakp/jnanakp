@@ -9,12 +9,20 @@
 
 ## 🌐 Let’s Connect  
 
-<a href="https://www.linkedin.com/in/jnana-k-p">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="mailto:jnanaakp@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/><br/>
+    LinkedIn
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:jnanaakp@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40"/><br/>
+    Gmail
+  </a>
+</p>
+
 
 ---
 
