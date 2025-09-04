@@ -1,9 +1,9 @@
 # Hey, I'm Jnana 👋  
 
-📊 Business & Data Analytics Professional with an Engineering Background  
+📊 Business & Data Analytics Professional With an Engineering Background  
 🎓 MS in Business Analytics @ USC Marshall | Ex Accenture  
-🔍 Turning complex data into clear insights and decisions  
-🌱 Exploring analytics, AI, and strategy across industries  
+🔍 Turning Complex Data Into Clear Insights and Decisions  
+🌱 Exploring Analytics, AI, and Strategy Across Industries  
 
 ---
 
