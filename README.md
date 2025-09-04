@@ -1,4 +1,4 @@
-# Hey, I'm Jnana 👋 | Figuring Things Out, One Dataset at a Time 🤓
+# Hey, I'm Jnana 👋 | Figuring Things Out, One Dataset at a Time 🤓  
 
 📊 Business & Data Analytics Professional With an Engineering Background  
 🎓 MS in Business Analytics @ USC Marshall | Former Analyst at Accenture  
@@ -14,6 +14,9 @@
 
 ---
 
+📚 Always learning | 🍵 Powered by Matcha | 📸 Capturing sunsets in LA  
+
+---
+
 ## 📌 Projects  
 Check out some of my work below 👇  
-
