@@ -9,17 +9,10 @@
 
 ## 🌐 Let’s Connect  
 
-<p>
-  <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="22"/> <sub>**LinkedIn**</sub>
-  </a>
-</p>
+| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/> | [LinkedIn](https://www.linkedin.com/in/jnana-k-p) |
+|---|---|
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="25"/> | [Gmail](mailto:jnanaakp@gmail.com) |
 
-<p>
-  <a href="mailto:jnanaakp@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="22"/> <sub>**Gmail**</sub>
-  </a>
-</p>
 
 
 
