@@ -67,5 +67,5 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
 
 ---
 
-#### Explore my GitHub Repositories — Check out my pinned projects below 👇
+#### Explore my GitHub Repositories — Check out my Pinned Projects below 👇
 
