@@ -16,9 +16,10 @@
 
 | | |
 |---|---|
-| <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="26"/> | **Data Analyst** – **_USC Viterbi STEM Center_** (Mar 2025 – Present) |
-| <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="26"/> | **Application Development Analyst** – **_Accenture Solutions Pvt Ltd_** (Sep 2021 – Jun 2023) |
-| <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="26"/> | **Analyst Intern** – **_Dysmech Competency Services Pvt Ltd_** (May 2019 – Oct 2019) |
+| <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="26"/> | **Data Analyst** – *USC Viterbi STEM Center* (Mar 2025 – Present) |
+| <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="26"/> | **Application Development Analyst** – *Accenture Solutions Pvt Ltd* (Sep 2021 – Jun 2023) |
+| <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="26"/> | **Analyst Intern** – *Dysmech Competency Services Pvt Ltd* (May 2019 – Oct 2019) |
+
 
 
 
