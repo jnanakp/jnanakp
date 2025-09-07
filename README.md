@@ -43,9 +43,16 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
 ---
 
 ## 🔗 Explore My Journey & Stay Connected  
-
- Visit my GitHub repositories to see my work in action  
-
-🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p)  
-📧 Email: jnanaakp@gmail.com  
-
+<p align="left">
+  <a href="https://github.com/jnana-k-p" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jnanaakp@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" height="25"/>
+  </a>
+</p>
