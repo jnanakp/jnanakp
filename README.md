@@ -12,8 +12,7 @@
 
 ---  
  
-## 💼 Career Snapshot   
-### 💼 Experience  
+## 💼 Career Snapshot    
 
 | | | |
 |---|---|---|
