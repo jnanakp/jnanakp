@@ -52,7 +52,7 @@
 
 ---
 
-## 🌱 Beyond Work  
+## 💻 Beyond Work  
 
 If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies
 
