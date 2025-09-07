@@ -19,19 +19,6 @@
 - **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
 
 ---
-## 🛠️ Technologies & Tools  
-
-**Languages & ML**  
-Python · R · SQL · TensorFlow · Keras · Pandas · NumPy · Scikit-learn  
-
-**Databases & Cloud**  
-MySQL · PostgreSQL · MongoDB · Snowflake · AWS · dbt  
-
-**Analytics & BI**  
-Excel · Tableau · Power BI · Looker · Google Sheets · Google Analytics  
-
-**Workflow & Collaboration**  
-Apache Airflow · Alteryx · Power Automate · Jupyter · Salesforce · Git · MS Office · Asana · Jira  
 
 ## 🛠️ Technologies & Tools  
 
