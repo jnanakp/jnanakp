@@ -28,8 +28,6 @@
   </tr>
 </table>
 
-
-
 ---
 ## ⚙️ Technologies & Tools  
 
@@ -40,7 +38,6 @@
 | **📊 Analytics & BI** | **⚡ Workflow & Automation** |
 |------------------------|-----------------------------|
 | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0077C0?logo=alteryx&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-
 
 
 | **🤝 Collaboration & Platforms** | **📈 Analytical & Functional Expertise** |
