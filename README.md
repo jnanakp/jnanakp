@@ -14,21 +14,11 @@
  
 ## 💼 Career Snapshot  
 
-<p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" alt="USC Logo" width="28"/> &nbsp; 
-  **Data Analyst** – USC Viterbi STEM Center _(Mar 2025 – Present)_  
-</p>  
+<img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" alt="USC Logo" width="22"/> **Data Analyst** – USC Viterbi STEM Center _(Mar 2025 – Present)_
 
-<p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" alt="Accenture Logo" width="28"/> &nbsp; 
-  **Application Development Analyst** – Accenture Solutions Pvt Ltd _(Sep 2021 – Jun 2023)_  
-</p>  
+<img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" alt="Accenture Logo" width="22"/> **Application Development Analyst** – Accenture Solutions Pvt Ltd _(Sep 2021 – Jun 2023)_
 
-<p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" alt="Dysmech Logo" width="28"/> &nbsp; 
-  **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
-</p>  
-
+<img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" alt="Dysmech Logo" width="22"/> **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_
 
 
 ---
