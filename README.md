@@ -82,7 +82,6 @@
 ![Scrum](https://img.shields.io/badge/Scrum-2E8B57?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
-
 ## 🌐 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnana-k-p)  
