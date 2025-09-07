@@ -41,7 +41,7 @@
 If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies  
 
 ---
-## ✨🔗 Explore My Journey & Stay Connected  
+## 🌐 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
@@ -55,4 +55,4 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
 
 ---
 
-Explore my GitHub repositories — check them out below 👇
+## Explore my GitHub repositories — check them out below 👇
