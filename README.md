@@ -36,17 +36,15 @@
 
 ---
  
-## 🌐 Let’s Connect 
+## 🌐 Let’s Connect  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="25" height="25" style="display:inline-block;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kundurpr@marshall.usc.edu" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-         alt="Gmail" width="25" height="25" style="display:inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" height="20"/>
   </a>
 </p>
 
