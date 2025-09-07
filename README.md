@@ -52,7 +52,7 @@
 
 ## 🌱 Beyond Work  
 
-📚 Always learning | 🍵 Powered by Matcha | 📸 Capturing sunsets in LA  
+If it’s not data, it’s probably 🍵 matcha, ✈️ travel, 📸 snaps, 🍴 bites, or 🎶 beats.  
 
 ---
 
