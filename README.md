@@ -41,13 +41,9 @@
 If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies  
 
 ---
+## ✨🔗 Explore My Journey & Stay Connected  
 
-## 🔗 Explore My Journey & Stay Connected  
 <p align="left">
-  <a href="https://github.com/jnana-k-p" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25"/>
   </a>
@@ -56,3 +52,7 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" height="25"/>
   </a>
 </p>
+
+---
+
+Explore my GitHub repositories — check them out below 👇
