@@ -52,7 +52,7 @@
 
 ## 🌱 Beyond Work  
 
-If it’s not data, it’s probably 🍵 matcha, ✈️ travel, 📸 snaps, 🍴 bites, or 🎶 beats.  
+🍵 Running on matcha | ✈️ Chasing adventures | 📸 Camera in pocket | 🍴 Food on my mind | 🎶 Music in my ears
 
 ---
 
