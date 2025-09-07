@@ -85,8 +85,6 @@
 
 ## 🌐 Let’s Connect  
 
-## 🌐 Let’s Connect  
-
 <p align="left">
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
