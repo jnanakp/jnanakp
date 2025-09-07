@@ -36,8 +36,7 @@
 
 ---
  
-
-## 🌐 Let’s Connect   
+🌐 **Let’s Connect**  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
@@ -48,6 +47,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="35" height="35"/>
   </a>
 </p>
+
 
 
 ---
