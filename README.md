@@ -11,11 +11,13 @@
 🌱 Exploring Analytics, AI, and Business Innovation across industries  
 
 ---
+
 ## 💼 Career Snapshot  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/USC_Viterbi_School_of_Engineering_logo.svg" width="20" alt="USC Viterbi"/> **Data Analyst** – USC Viterbi K-12 STEM Center  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Accenture-logo.svg" width="20" alt="Accenture"/> **Application Development Analyst** – Accenture Solutions Pvt Ltd  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Mechanical_Gear_Icon.svg
+- <img src="https://1000logos.net/wp-content/uploads/2021/06/USC-Logo.png" width="25" alt="USC Viterbi"/> **Data Analyst** – USC Viterbi K-12 STEM Center  
+- <img src="https://1000logos.net/wp-content/uploads/2021/06/Accenture-logo.png" width="25" alt="Accenture"/> **Application Development Analyst** – Accenture Solutions Pvt Ltd  
+- <img src="https://cdn-icons-png.flaticon.com/512/906/906310.png" width="25" alt="Dysmech"/> **Analyst Intern** – Dysmech Competency Services Pvt Ltd  
+
 ---
 
 ## 🛠️ Technologies & Tools  
