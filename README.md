@@ -10,23 +10,25 @@
 🔍 Passionate about turning complex data into clear insights and actionable strategies  
 🌱 Exploring Analytics, AI, and Business Innovation across industries  
 
----
+---  
 
 ## 💼 Career Snapshot  
 
-## 💼 Career Snapshot  
-
 <p align="left">
-  <img src="usc_logo.png" alt="USC Logo" width="30"/> &nbsp; **Data Analyst** – USC Viterbi STEM Center _(Mar 2025 – Present)_  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/USC_Trojans_logo.svg" alt="USC Logo" width="30"/> &nbsp; 
+  **Data Analyst** – USC Viterbi STEM Center _(Mar 2025 – Present)_  
 </p>  
 
 <p align="left">
-  <img src="accenture_logo.png" alt="Accenture Logo" width="30"/> &nbsp; **Application Development Analyst** – Accenture Solutions Pvt Ltd _(Sep 2021 – Jun 2023)_  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Accenture_logo.svg" alt="Accenture Logo" width="30"/> &nbsp; 
+  **Application Development Analyst** – Accenture Solutions Pvt Ltd _(Sep 2021 – Jun 2023)_  
 </p>  
 
 <p align="left">
-  <img src="dysmech_logo.png" alt="Dysmech Logo" width="30"/> &nbsp; **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Mechanical_Gear_Icon.svg" alt="Dysmech Logo" width="30"/> &nbsp; 
+  **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
 </p>  
+
 
 ---
 ## ⚙️ Technologies & Tools  
