@@ -11,12 +11,12 @@
 🌱 Exploring Analytics, AI, and Business Innovation across industries  
 
 ---
-
+ 
 ## 💼 Career Snapshot  
 
-- **Data Analyst** – USC Viterbi STEM Center  
-- **Application Development Analyst** – Accenture Solutions Pvt Ltd  
-- **Analyst Intern** – Dysmech Competency Services Pvt Ltd  
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/University_of_Southern_California_Seal.svg/1024px-University_of_Southern_California_Seal.svg.png" width="20"/> **Data Analyst** – USC Viterbi K-12 STEM Center  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/accenture/accenture-original.svg" width="20"/> **Application Development Analyst** – Accenture Solutions Pvt Ltd  
+- <img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="20"/> **Analyst Intern** – Dysmech Competency Services Pvt Ltd  
 
 ---
 
