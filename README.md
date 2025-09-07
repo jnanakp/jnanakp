@@ -14,7 +14,7 @@
 
 ## 💼 Career Snapshot  
 
-- **Data Analyst** – USC Viterbi K-12 STEM Center _(Mar 2025 – Present)_  
+- **Data Analyst** – USC Viterbi STEM Center _(Mar 2025 – Present)_  
 - **Application Development Analyst** – Accenture Solutions Pvt Ltd _(Sep 2021 – Jun 2023)_  
 - **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
 
