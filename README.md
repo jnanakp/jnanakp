@@ -55,4 +55,4 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
 
 ---
 
-#### Explore my GitHub repositories — Check them out below 👇
+#### Explore my GitHub repositories - Check them out below 👇
