@@ -1,5 +1,5 @@
 # Hey, I'm Jnana 👋  
-**Figuring Things Out, One Dataset at a Time 🤓**
+### Figuring Things Out, One Dataset at a Time 🤓
 
 ---
 
