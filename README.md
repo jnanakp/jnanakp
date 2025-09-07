@@ -14,10 +14,9 @@
 
 ## 💼 Career Snapshot  
 
-![USC](https://img.shields.io/badge/Data%20Analyst-USC%20Viterbi%20K12%20STEM%20Center-990000?style=flat-square&logo=usc&logoColor=white)  
-![Accenture](https://img.shields.io/badge/Application%20Development%20Analyst-Accenture%20Solutions%20Pvt%20Ltd-A100FF?style=flat-square&logo=accenture&logoColor=white)  
-![Dysmech](https://img.shields.io/badge/Analyst%20Intern-Dysmech%20Competency%20Services-555555?style=flat-square&logo=briefcase&logoColor=white)  
- 
+- **Data Analyst** – USC Viterbi K-12 STEM Center  
+- **Application Development Analyst** – Accenture Solutions Pvt Ltd  
+- **Analyst Intern** – Dysmech Competency Services Pvt Ltd  
 
 ---
 
