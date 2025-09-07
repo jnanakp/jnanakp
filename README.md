@@ -35,26 +35,17 @@
 
 
 ---
- 
-## 🌐 Let’s Connect  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kundurpr@marshall.usc.edu" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" height="20"/>
-  </a>
-</p>
-
----
 
 ## 💻 Beyond Work  
 
-If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies
+If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies  
 
 ---
 
-## 📌 Projects  
-Check out some of my work below 👇  
+## 🔗 Explore My Journey & Stay Connected  
+
+ Visit my GitHub repositories to see my work in action  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/jnana-k-p)  
+📧 Email: jnanaakp@gmail.com  
+
