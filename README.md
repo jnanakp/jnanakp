@@ -82,10 +82,12 @@
 ![Scrum](https://img.shields.io/badge/Scrum-2E8B57?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
+
 ## 🌐 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnana-k-p)  
-[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundurpr@marshall.usc.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnana-k-p)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundurpr@marshall.usc.edu)  
+
 
 
 ---
