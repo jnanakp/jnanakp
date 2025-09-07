@@ -19,15 +19,16 @@
 - **Analyst Intern** – Dysmech Competency Services Pvt Ltd _(May 2019 – Oct 2019)_  
 
 ---
-## 🛠️ Technologies & Tools  
+## ⚙️ Technologies & Tools  
 
-| **📚 Languages & Libraries** | **☁️ Databases & Cloud** |
+| **📚 Programming & Libraries** | **☁️ Databases & Cloud** |
 |------------------------------|--------------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white) |
 
 | **📊 Analytics & BI** | **⚡ Workflow & Automation** |
 |------------------------|-----------------------------|
-| ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0077C0?logo=alteryx&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0077C0?logo=alteryx&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+
 
 | **🤝 Collaboration & Platforms** | **📈 Analytical & Functional Expertise** |
 |----------------------------------|------------------------------------------|
@@ -54,4 +55,5 @@ If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴
 
 ---
 
-#### Explore my GitHub repositories - Check them out below 👇
+#### Explore my GitHub repositories — check out my pinned projects below 👇
+
