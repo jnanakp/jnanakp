@@ -14,20 +14,22 @@
  
 ## 💼 Career Snapshot     
 
+
 <p>
-  <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="22" style="vertical-align:middle; margin-right:6px;"/> 
+  <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="24" style="vertical-align:middle; margin-right:8px;"/> 
   <b>Data Analyst</b> – <i>USC Viterbi STEM Center</i> (Mar 2025 – Present)
 </p>
 
 <p>
-  <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="22" style="vertical-align:middle; margin-right:6px;"/> 
+  <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="24" style="vertical-align:middle; margin-right:8px;"/> 
   <b>Application Development Analyst</b> – <i>Accenture Solutions Pvt Ltd</i> (Sep 2021 – Jun 2023)
 </p>
 
 <p>
-  <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="22" style="vertical-align:middle; margin-right:6px;"/> 
+  <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="24" style="vertical-align:middle; margin-right:8px;"/> 
   <b>Analyst Intern</b> – <i>Dysmech Competency Services Pvt Ltd</i> (May 2019 – Oct 2019)
 </p>
+
 
 
 ---
