@@ -14,11 +14,10 @@
 
 ## 💼 Career Snapshot  
 
-![USC](https://img.shields.io/badge/Data%20Analyst-USC%20Viterbi%20K12%20STEM%20Center-990000?style=for-the-badge&logo=usc&logoColor=white)  
-
-![Accenture](https://img.shields.io/badge/Application%20Development%20Analyst-Accenture%20Solutions%20Pvt%20Ltd-A100FF?style=for-the-badge&logo=accenture&logoColor=white)  
-
-![Dysmech](https://img.shields.io/badge/Analyst%20Intern-Dysmech%20Competency%20Services-grey?style=for-the-badge&logo=briefcase&logoColor=white)  
+![USC](https://img.shields.io/badge/Data%20Analyst-USC%20Viterbi%20K12%20STEM%20Center-990000?style=flat-square&logo=usc&logoColor=white)  
+![Accenture](https://img.shields.io/badge/Application%20Development%20Analyst-Accenture%20Solutions%20Pvt%20Ltd-A100FF?style=flat-square&logo=accenture&logoColor=white)  
+![Dysmech](https://img.shields.io/badge/Analyst%20Intern-Dysmech%20Competency%20Services-555555?style=flat-square&logo=briefcase&logoColor=white)  
+ 
 
 ---
 
