@@ -39,7 +39,7 @@
 
 ## 💻 Beyond Work  
 
-If it’s not Data, it’s probably 🍵 Matcha, ✈️ Travel, 📸 Snaps, 🍴 Bites, 🎶 Beats, or 🎬 Movies  
+If it’s not Data sets, it’s probably Matcha sips 🍵, Travel trips ✈️, Camera clicks 📸, Foodie bites 🍴, Music beats 🎶, and Movie nights 🎬. 
 
 ---
 ## 🌐 Let's Connect
