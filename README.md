@@ -14,21 +14,21 @@
  
 ## 💼 Career Snapshot     
 
+<div style="display: flex; align-items: center; margin-bottom: 6px;">
+  <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="24" style="margin-right:8px;"/>
+  <span><b>Data Analyst</b> – <i>USC Viterbi STEM Center</i> (Mar 2025 – Present)</span>
+</div>
 
-<p>
-  <img src="https://drive.google.com/uc?id=1ffMj6Vbx5mRHE9O1RWlWneKR9ZxjitG2" width="24" style="vertical-align:middle; margin-right:8px;"/> 
-  <b>Data Analyst</b> – <i>USC Viterbi STEM Center</i> (Mar 2025 – Present)
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 6px;">
+  <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="24" style="margin-right:8px;"/>
+  <span><b>Application Development Analyst</b> – <i>Accenture Solutions Pvt Ltd</i> (Sep 2021 – Jun 2023)</span>
+</div>
 
-<p>
-  <img src="https://drive.google.com/uc?id=1FnGLPF7zjYj8AxnRLBnqQcVBKLF4dMHW" width="24" style="vertical-align:middle; margin-right:8px;"/> 
-  <b>Application Development Analyst</b> – <i>Accenture Solutions Pvt Ltd</i> (Sep 2021 – Jun 2023)
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 6px;">
+  <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="24" style="margin-right:8px;"/>
+  <span><b>Analyst Intern</b> – <i>Dysmech Competency Services Pvt Ltd</i> (May 2019 – Oct 2019)</span>
+</div>
 
-<p>
-  <img src="https://drive.google.com/uc?id=19bMRJXCYAWlBucaG4nG-IixOtApy2eA9" width="24" style="vertical-align:middle; margin-right:8px;"/> 
-  <b>Analyst Intern</b> – <i>Dysmech Competency Services Pvt Ltd</i> (May 2019 – Oct 2019)
-</p>
 
 
 
