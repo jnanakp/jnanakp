@@ -9,23 +9,22 @@
 
 <h2>🌐 Let’s Connect</h2>
 
-<div style="display: flex; gap: 25px; align-items: center;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jnana-k-p" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn" width="45" height="45" 
-         style="border-radius: 8px; transition: transform 0.2s;">
+         alt="LinkedIn" width="50" height="50" style="border-radius: 8px;">
   </a>
 
   <!-- Gmail -->
   <a href="mailto:jnanaakp@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Gmail" width="45" height="45" 
-         style="border-radius: 8px; transition: transform 0.2s;">
+         alt="Gmail" width="50" height="50" style="border-radius: 8px;">
   </a>
 
 </div>
+
 
 
 ---
