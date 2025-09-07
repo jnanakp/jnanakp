@@ -8,7 +8,12 @@
 📊 Business & Data Analytics Professional with an Engineering Background  
 🎓 M.S. in Business Analytics @ USC Marshall | Former Analyst @ Accenture  
 🔍 Passionate about turning complex data into clear insights and actionable strategies  
-🌱 Exploring Analytics, AI, and Business Innovation across industries  
+🌱 Exploring Analytics, AI, and Business Innovation across industries 
+
+📈 Business & Data Analytics Professional with an Engineering Background
+🎓 M.S. in Business Analytics @ USC Marshall | Former Analyst @ Accenture
+🧩 Passionate about turning complex data into clear insights and actionable strategies
+🧐 Exploring Analytics, AI, and Business Innovation across industries
 
 ---  
  
