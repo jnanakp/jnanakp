@@ -15,10 +15,10 @@
 ## 💼 Career Snapshot     
 
 <p><b>Business Analyst, TipTop Technologies</b> | Sunnyvale, CA<br>
-Jun 2025 – Nov 2025</p>
+Nov 2025 – Present</p>
 
 <p><b>Data Analyst, USC Viterbi STEM Center</b> | Los Angeles, CA<br>
-Nov 2025 – Present</p>
+Jun 2025 – Nov 2025</p>
 
 <p><b>Application Development Analyst, Accenture Solutions Pvt Ltd</b> | Bangalore, India<br>
 Sep 2021 – Jun 2023</p>
